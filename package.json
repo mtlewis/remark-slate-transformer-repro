@@ -1,0 +1,17 @@
+{
+  "name": "remark-slate-transformer-repro",
+  "version": "0.0.0-development",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "remark-parse": "^10.0.1",
+    "remark-slate-transformer": "0.7.1",
+    "slate": "^0.84.0",
+    "unified": "^10.1.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
