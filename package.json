@@ -7,7 +7,7 @@
   "type": "module",
   "dependencies": {
     "remark-parse": "^10.0.1",
-    "remark-slate-transformer": "0.7.1",
+    "remark-slate-transformer": "0.7.2",
     "slate": "^0.84.0",
     "tslib": "^2.4.1",
     "unified": "^10.1.2"
