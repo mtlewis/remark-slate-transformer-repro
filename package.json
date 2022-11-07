@@ -6,6 +6,7 @@
   "private": true,
   "type": "module",
   "dependencies": {
+    "mdast-util-math": "^2.0.1",
     "remark-parse": "^10.0.1",
     "remark-slate-transformer": "0.7.2",
     "slate": "^0.84.0",
